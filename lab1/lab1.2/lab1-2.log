@@ -1,0 +1,38 @@
+* 2a6362b (HEAD -> main, origin/main, origin/HEAD) DOne
+* 7ec8b3d Update .gitignore
+* c68da02 Removed files
+*   9ea1e48 Files
+|\  
+| *   1748f2d Merge pull request #4 from eduardosantoshf/feature/logging_support
+| |\  
+| | *   2ffa795 (origin/feature/logging_support) Merge branch 'feature/logging_support' of https://github.com/eduardosantoshf/weather-radar into feature/logging_support
+| | |\  
+| | | * d1c6670 Delete log4j.xml
+| | * | 2fdff94 Changes
+| | * | 7574296 File
+| | |/  
+| | * 0f1df7d Changed log4j2.xml
+| | * 2ea747c Moved log4j2.xml
+| | * 965a7c3 Added Log4j 2 logging framework to pom.xml
+| |/  
+| *   221cccd Merge pull request #3 from eduardosantoshf/feature/logging_support
+| |\  
+| | * afcd6d9 Added .DS_Store and target/ to gitignore
+| * |   5292ff0 Merge pull request #2 from eduardosantoshf/feature/city_names
+| |\ \  
+| | * | 4f683c3 (feature/city_names) second feature
+| | * | 505dd8d second feature
+| | * | af1f84a second feature
+| | * | 4590447 removed teste
+| * | |   c05b05d Merge pull request #1 from eduardosantoshf/feature/city_names
+| |\ \ \  
+| | |/ /  
+| | | /   
+| | |/    
+| |/|     
+| | * 19b7ada teste.txt
+| |/  
+* | ada9271 Added .DS_Store and target/ to gitignore
+|/  
+* 8ae4676 First commit
+* 24596ff Initial commit
